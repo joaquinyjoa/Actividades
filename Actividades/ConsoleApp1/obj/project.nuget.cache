@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1pcUwDw0TlrM0G31UyJhjzGOgMBUhomtIT7LxN9oI7CZtqd5ezabfdsGREW3FeeEfuU/rahw5cPKb4hU0qG2NA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

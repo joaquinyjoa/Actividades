@@ -1,0 +1,15 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_15_Calcular_area\bin\Debug\net6.0\Ejercicio_15_Calcular_area.exe
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_15_Calcular_area\bin\Debug\net6.0\Ejercicio_15_Calcular_area.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_15_Calcular_area\bin\Debug\net6.0\Ejercicio_15_Calcular_area.runtimeconfig.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_15_Calcular_area\bin\Debug\net6.0\Ejercicio_15_Calcular_area.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_15_Calcular_area\bin\Debug\net6.0\Ejercicio_15_Calcular_area.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_15_Calcular_area\obj\Debug\net6.0\Ejercicio_15_Calcular_area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_15_Calcular_area\obj\Debug\net6.0\Ejercicio_15_Calcular_area.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_15_Calcular_area\obj\Debug\net6.0\Ejercicio_15_Calcular_area.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_15_Calcular_area\obj\Debug\net6.0\Ejercicio_15_Calcular_area.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_15_Calcular_area\obj\Debug\net6.0\Ejercicio_15_Calcular_area.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_15_Calcular_area\obj\Debug\net6.0\Ejercicio_15_Calcular_area.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_15_Calcular_area\obj\Debug\net6.0\refint\Ejercicio_15_Calcular_area.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_15_Calcular_area\obj\Debug\net6.0\Ejercicio_15_Calcular_area.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_15_Calcular_area\obj\Debug\net6.0\Ejercicio_15_Calcular_area.genruntimeconfig.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_15_Calcular_area\obj\Debug\net6.0\ref\Ejercicio_15_Calcular_area.dll

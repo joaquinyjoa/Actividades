@@ -1,0 +1,15 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_13_calculadora_factorial\bin\Debug\net6.0\Ejercicio_13_calcular_factorial.exe
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_13_calculadora_factorial\bin\Debug\net6.0\Ejercicio_13_calcular_factorial.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_13_calculadora_factorial\bin\Debug\net6.0\Ejercicio_13_calcular_factorial.runtimeconfig.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_13_calculadora_factorial\bin\Debug\net6.0\Ejercicio_13_calcular_factorial.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_13_calculadora_factorial\bin\Debug\net6.0\Ejercicio_13_calcular_factorial.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_13_calculadora_factorial\obj\Debug\net6.0\Ejercicio_13_calcular_factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_13_calculadora_factorial\obj\Debug\net6.0\Ejercicio_13_calcular_factorial.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_13_calculadora_factorial\obj\Debug\net6.0\Ejercicio_13_calcular_factorial.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_13_calculadora_factorial\obj\Debug\net6.0\Ejercicio_13_calcular_factorial.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_13_calculadora_factorial\obj\Debug\net6.0\Ejercicio_13_calcular_factorial.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_13_calculadora_factorial\obj\Debug\net6.0\Ejercicio_13_calcular_factorial.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_13_calculadora_factorial\obj\Debug\net6.0\refint\Ejercicio_13_calcular_factorial.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_13_calculadora_factorial\obj\Debug\net6.0\Ejercicio_13_calcular_factorial.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_13_calculadora_factorial\obj\Debug\net6.0\Ejercicio_13_calcular_factorial.genruntimeconfig.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_13_calculadora_factorial\obj\Debug\net6.0\ref\Ejercicio_13_calcular_factorial.dll

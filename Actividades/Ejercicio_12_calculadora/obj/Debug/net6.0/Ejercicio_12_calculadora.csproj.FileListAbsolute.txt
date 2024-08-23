@@ -1,0 +1,15 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_12_calculadora\bin\Debug\net6.0\Ejercicio_12_calculadora.exe
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_12_calculadora\bin\Debug\net6.0\Ejercicio_12_calculadora.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_12_calculadora\bin\Debug\net6.0\Ejercicio_12_calculadora.runtimeconfig.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_12_calculadora\bin\Debug\net6.0\Ejercicio_12_calculadora.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_12_calculadora\bin\Debug\net6.0\Ejercicio_12_calculadora.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_12_calculadora\obj\Debug\net6.0\Ejercicio_12_calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_12_calculadora\obj\Debug\net6.0\Ejercicio_12_calculadora.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_12_calculadora\obj\Debug\net6.0\Ejercicio_12_calculadora.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_12_calculadora\obj\Debug\net6.0\Ejercicio_12_calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_12_calculadora\obj\Debug\net6.0\Ejercicio_12_calculadora.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_12_calculadora\obj\Debug\net6.0\Ejercicio_12_calculadora.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_12_calculadora\obj\Debug\net6.0\refint\Ejercicio_12_calculadora.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_12_calculadora\obj\Debug\net6.0\Ejercicio_12_calculadora.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_12_calculadora\obj\Debug\net6.0\Ejercicio_12_calculadora.genruntimeconfig.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_12_calculadora\obj\Debug\net6.0\ref\Ejercicio_12_calculadora.dll

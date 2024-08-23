@@ -1,0 +1,15 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ej_07 Cuantos dias viviste\bin\Debug\net6.0\Ejercicio_07 Cuantos dias viviste.exe
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ej_07 Cuantos dias viviste\bin\Debug\net6.0\Ejercicio_07 Cuantos dias viviste.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ej_07 Cuantos dias viviste\bin\Debug\net6.0\Ejercicio_07 Cuantos dias viviste.runtimeconfig.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ej_07 Cuantos dias viviste\bin\Debug\net6.0\Ejercicio_07 Cuantos dias viviste.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ej_07 Cuantos dias viviste\bin\Debug\net6.0\Ejercicio_07 Cuantos dias viviste.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ej_07 Cuantos dias viviste\obj\Debug\net6.0\Ejercicio_07 Cuantos dias viviste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ej_07 Cuantos dias viviste\obj\Debug\net6.0\Ejercicio_07 Cuantos dias viviste.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ej_07 Cuantos dias viviste\obj\Debug\net6.0\Ejercicio_07 Cuantos dias viviste.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ej_07 Cuantos dias viviste\obj\Debug\net6.0\Ejercicio_07 Cuantos dias viviste.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ej_07 Cuantos dias viviste\obj\Debug\net6.0\Ejercicio_07 Cuantos dias viviste.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ej_07 Cuantos dias viviste\obj\Debug\net6.0\Ejercicio_07 Cuantos dias viviste.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ej_07 Cuantos dias viviste\obj\Debug\net6.0\refint\Ejercicio_07 Cuantos dias viviste.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ej_07 Cuantos dias viviste\obj\Debug\net6.0\Ejercicio_07 Cuantos dias viviste.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ej_07 Cuantos dias viviste\obj\Debug\net6.0\Ejercicio_07 Cuantos dias viviste.genruntimeconfig.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ej_07 Cuantos dias viviste\obj\Debug\net6.0\ref\Ejercicio_07 Cuantos dias viviste.dll

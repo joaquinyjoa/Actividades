@@ -1,0 +1,15 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_11_validar_rangos\bin\Debug\net6.0\Ejercicio_11_validar_rangos.exe
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_11_validar_rangos\bin\Debug\net6.0\Ejercicio_11_validar_rangos.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_11_validar_rangos\bin\Debug\net6.0\Ejercicio_11_validar_rangos.runtimeconfig.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_11_validar_rangos\bin\Debug\net6.0\Ejercicio_11_validar_rangos.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_11_validar_rangos\bin\Debug\net6.0\Ejercicio_11_validar_rangos.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_11_validar_rangos\obj\Debug\net6.0\Ejercicio_11_validar_rangos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_11_validar_rangos\obj\Debug\net6.0\Ejercicio_11_validar_rangos.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_11_validar_rangos\obj\Debug\net6.0\Ejercicio_11_validar_rangos.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_11_validar_rangos\obj\Debug\net6.0\Ejercicio_11_validar_rangos.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_11_validar_rangos\obj\Debug\net6.0\Ejercicio_11_validar_rangos.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_11_validar_rangos\obj\Debug\net6.0\Ejercicio_11_validar_rangos.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_11_validar_rangos\obj\Debug\net6.0\refint\Ejercicio_11_validar_rangos.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_11_validar_rangos\obj\Debug\net6.0\Ejercicio_11_validar_rangos.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_11_validar_rangos\obj\Debug\net6.0\Ejercicio_11_validar_rangos.genruntimeconfig.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_11_validar_rangos\obj\Debug\net6.0\ref\Ejercicio_11_validar_rangos.dll

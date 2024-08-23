@@ -1,0 +1,15 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_14_tabla_multiplicar\bin\Debug\net6.0\Ejercicio_14_tabla_multiplicar.exe
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_14_tabla_multiplicar\bin\Debug\net6.0\Ejercicio_14_tabla_multiplicar.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_14_tabla_multiplicar\bin\Debug\net6.0\Ejercicio_14_tabla_multiplicar.runtimeconfig.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_14_tabla_multiplicar\bin\Debug\net6.0\Ejercicio_14_tabla_multiplicar.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_14_tabla_multiplicar\bin\Debug\net6.0\Ejercicio_14_tabla_multiplicar.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_14_tabla_multiplicar\obj\Debug\net6.0\Ejercicio_14_tabla_multiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_14_tabla_multiplicar\obj\Debug\net6.0\Ejercicio_14_tabla_multiplicar.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_14_tabla_multiplicar\obj\Debug\net6.0\Ejercicio_14_tabla_multiplicar.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_14_tabla_multiplicar\obj\Debug\net6.0\Ejercicio_14_tabla_multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_14_tabla_multiplicar\obj\Debug\net6.0\Ejercicio_14_tabla_multiplicar.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_14_tabla_multiplicar\obj\Debug\net6.0\Ejercicio_14_tabla_multiplicar.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_14_tabla_multiplicar\obj\Debug\net6.0\refint\Ejercicio_14_tabla_multiplicar.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_14_tabla_multiplicar\obj\Debug\net6.0\Ejercicio_14_tabla_multiplicar.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_14_tabla_multiplicar\obj\Debug\net6.0\Ejercicio_14_tabla_multiplicar.genruntimeconfig.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_14_tabla_multiplicar\obj\Debug\net6.0\ref\Ejercicio_14_tabla_multiplicar.dll

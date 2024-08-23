@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmnUAHgSBHzh1OzuOpbASDqASeE/M+tAKm2yX7PHNnwOAlvG8eYG7Ojxy64fjNnEh0SSpObjPY/7aZOU7DoxBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Ejercicio_16_pitagoras\\Ejercicio_16_pitagoras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

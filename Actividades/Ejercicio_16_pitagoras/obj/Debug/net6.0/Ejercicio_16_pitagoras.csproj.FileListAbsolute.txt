@@ -1,0 +1,15 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_16_pitagoras\bin\Debug\net6.0\Ejercicio_16_pitagoras.exe
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_16_pitagoras\bin\Debug\net6.0\Ejercicio_16_pitagoras.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_16_pitagoras\bin\Debug\net6.0\Ejercicio_16_pitagoras.runtimeconfig.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_16_pitagoras\bin\Debug\net6.0\Ejercicio_16_pitagoras.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_16_pitagoras\bin\Debug\net6.0\Ejercicio_16_pitagoras.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_16_pitagoras\obj\Debug\net6.0\Ejercicio_16_pitagoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_16_pitagoras\obj\Debug\net6.0\Ejercicio_16_pitagoras.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_16_pitagoras\obj\Debug\net6.0\Ejercicio_16_pitagoras.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_16_pitagoras\obj\Debug\net6.0\Ejercicio_16_pitagoras.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_16_pitagoras\obj\Debug\net6.0\Ejercicio_16_pitagoras.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_16_pitagoras\obj\Debug\net6.0\Ejercicio_16_pitagoras.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_16_pitagoras\obj\Debug\net6.0\refint\Ejercicio_16_pitagoras.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_16_pitagoras\obj\Debug\net6.0\Ejercicio_16_pitagoras.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_16_pitagoras\obj\Debug\net6.0\Ejercicio_16_pitagoras.genruntimeconfig.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_16_pitagoras\obj\Debug\net6.0\ref\Ejercicio_16_pitagoras.dll

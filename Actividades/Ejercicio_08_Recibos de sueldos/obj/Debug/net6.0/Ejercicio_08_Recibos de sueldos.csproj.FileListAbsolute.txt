@@ -1,0 +1,15 @@
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_08_Recibos de sueldos\bin\Debug\net6.0\Ejercicio_08_Recibos de sueldos.exe
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_08_Recibos de sueldos\bin\Debug\net6.0\Ejercicio_08_Recibos de sueldos.deps.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_08_Recibos de sueldos\bin\Debug\net6.0\Ejercicio_08_Recibos de sueldos.runtimeconfig.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_08_Recibos de sueldos\bin\Debug\net6.0\Ejercicio_08_Recibos de sueldos.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_08_Recibos de sueldos\bin\Debug\net6.0\Ejercicio_08_Recibos de sueldos.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_08_Recibos de sueldos\obj\Debug\net6.0\Ejercicio_08_Recibos de sueldos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_08_Recibos de sueldos\obj\Debug\net6.0\Ejercicio_08_Recibos de sueldos.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_08_Recibos de sueldos\obj\Debug\net6.0\Ejercicio_08_Recibos de sueldos.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_08_Recibos de sueldos\obj\Debug\net6.0\Ejercicio_08_Recibos de sueldos.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_08_Recibos de sueldos\obj\Debug\net6.0\Ejercicio_08_Recibos de sueldos.sourcelink.json
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_08_Recibos de sueldos\obj\Debug\net6.0\Ejercicio_08_Recibos de sueldos.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_08_Recibos de sueldos\obj\Debug\net6.0\refint\Ejercicio_08_Recibos de sueldos.dll
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_08_Recibos de sueldos\obj\Debug\net6.0\Ejercicio_08_Recibos de sueldos.pdb
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_08_Recibos de sueldos\obj\Debug\net6.0\Ejercicio_08_Recibos de sueldos.genruntimeconfig.cache
+C:\Users\Joaquin\Desktop\Actividades\Actividades\Ejercicio_08_Recibos de sueldos\obj\Debug\net6.0\ref\Ejercicio_08_Recibos de sueldos.dll
