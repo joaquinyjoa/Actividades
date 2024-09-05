@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Joaquin\\.nuget\\packages\\": {}
+    "C:\\Users\\Sistemas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Ej_07 Cuantos dias viviste\\Ejercicio_07 Cuantos dias viviste.csproj",
+      "projectUniqueName": "C:\\Users\\Sistemas\\OneDrive\\Desktop\\Actividades\\Actividades\\Ej_07 Cuantos dias viviste\\Ejercicio_07 Cuantos dias viviste.csproj",
       "projectName": "Ejercicio_07 Cuantos dias viviste",
-      "projectPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Ej_07 Cuantos dias viviste\\Ejercicio_07 Cuantos dias viviste.csproj",
-      "packagesPath": "C:\\Users\\Joaquin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Ej_07 Cuantos dias viviste\\obj\\",
+      "projectPath": "C:\\Users\\Sistemas\\OneDrive\\Desktop\\Actividades\\Actividades\\Ej_07 Cuantos dias viviste\\Ejercicio_07 Cuantos dias viviste.csproj",
+      "packagesPath": "C:\\Users\\Sistemas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sistemas\\OneDrive\\Desktop\\Actividades\\Actividades\\Ej_07 Cuantos dias viviste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Joaquin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,19 +64,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
+            "version": "[6.0.29, 6.0.29]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.28, 6.0.28]"
+            "version": "[6.0.29, 6.0.29]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
+            "version": "[6.0.29, 6.0.29]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
+            "version": "[6.0.29, 6.0.29]"
           }
         ],
         "frameworkReferences": {
@@ -84,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

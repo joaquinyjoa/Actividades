@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Ejercicio_10_Dibujando_triangulo_equilatero\\Ejercicio_10_Dibujando_triangulo_equilatero.csproj": {}
+    "C:\\Users\\Sistemas\\OneDrive\\Desktop\\Actividades\\Actividades\\Ejercicio_10_Dibujando_triangulo_equilatero\\Ejercicio_10_Dibujando_triangulo_equilatero.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Ejercicio_10_Dibujando_triangulo_equilatero\\Ejercicio_10_Dibujando_triangulo_equilatero.csproj": {
+    "C:\\Users\\Sistemas\\OneDrive\\Desktop\\Actividades\\Actividades\\Ejercicio_10_Dibujando_triangulo_equilatero\\Ejercicio_10_Dibujando_triangulo_equilatero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Ejercicio_10_Dibujando_triangulo_equilatero\\Ejercicio_10_Dibujando_triangulo_equilatero.csproj",
+        "projectUniqueName": "C:\\Users\\Sistemas\\OneDrive\\Desktop\\Actividades\\Actividades\\Ejercicio_10_Dibujando_triangulo_equilatero\\Ejercicio_10_Dibujando_triangulo_equilatero.csproj",
         "projectName": "Ejercicio_10_Dibujando_triangulo_equilatero",
-        "projectPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Ejercicio_10_Dibujando_triangulo_equilatero\\Ejercicio_10_Dibujando_triangulo_equilatero.csproj",
-        "packagesPath": "C:\\Users\\Joaquin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Ejercicio_10_Dibujando_triangulo_equilatero\\obj\\",
+        "projectPath": "C:\\Users\\Sistemas\\OneDrive\\Desktop\\Actividades\\Actividades\\Ejercicio_10_Dibujando_triangulo_equilatero\\Ejercicio_10_Dibujando_triangulo_equilatero.csproj",
+        "packagesPath": "C:\\Users\\Sistemas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sistemas\\OneDrive\\Desktop\\Actividades\\Actividades\\Ejercicio_10_Dibujando_triangulo_equilatero\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Joaquin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,19 +58,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
+              "version": "[6.0.29, 6.0.29]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.28, 6.0.28]"
+              "version": "[6.0.29, 6.0.29]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
+              "version": "[6.0.29, 6.0.29]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
+              "version": "[6.0.29, 6.0.29]"
             }
           ],
           "frameworkReferences": {
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

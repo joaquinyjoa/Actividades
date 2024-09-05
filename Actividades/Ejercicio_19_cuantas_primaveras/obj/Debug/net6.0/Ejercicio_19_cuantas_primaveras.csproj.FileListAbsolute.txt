@@ -1,0 +1,15 @@
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_19_cuantas_primaveras\bin\Debug\net6.0\Ejercicio_19_cuantas_primaveras.exe
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_19_cuantas_primaveras\bin\Debug\net6.0\Ejercicio_19_cuantas_primaveras.deps.json
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_19_cuantas_primaveras\bin\Debug\net6.0\Ejercicio_19_cuantas_primaveras.runtimeconfig.json
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_19_cuantas_primaveras\bin\Debug\net6.0\Ejercicio_19_cuantas_primaveras.dll
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_19_cuantas_primaveras\bin\Debug\net6.0\Ejercicio_19_cuantas_primaveras.pdb
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_19_cuantas_primaveras\obj\Debug\net6.0\Ejercicio_19_cuantas_primaveras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_19_cuantas_primaveras\obj\Debug\net6.0\Ejercicio_19_cuantas_primaveras.AssemblyInfoInputs.cache
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_19_cuantas_primaveras\obj\Debug\net6.0\Ejercicio_19_cuantas_primaveras.AssemblyInfo.cs
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_19_cuantas_primaveras\obj\Debug\net6.0\Ejercicio_19_cuantas_primaveras.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_19_cuantas_primaveras\obj\Debug\net6.0\Ejercicio_19_cuantas_primaveras.sourcelink.json
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_19_cuantas_primaveras\obj\Debug\net6.0\Ejercicio_19_cuantas_primaveras.dll
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_19_cuantas_primaveras\obj\Debug\net6.0\refint\Ejercicio_19_cuantas_primaveras.dll
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_19_cuantas_primaveras\obj\Debug\net6.0\Ejercicio_19_cuantas_primaveras.pdb
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_19_cuantas_primaveras\obj\Debug\net6.0\Ejercicio_19_cuantas_primaveras.genruntimeconfig.cache
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_19_cuantas_primaveras\obj\Debug\net6.0\ref\Ejercicio_19_cuantas_primaveras.dll

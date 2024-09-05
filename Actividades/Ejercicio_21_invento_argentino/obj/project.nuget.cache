@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n0/bvUM9q6u5j7VLdVGtf7TvcxrXfPIzP1Iq7NL+9k/MVm32WzyPAh6b/d5Z+VaIa3RDKLHnwL7sDsqf6uG7Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sistemas\\OneDrive\\Desktop\\Actividades\\Actividades\\Ejercicio_21_invento_argentino\\Ejercicio_21_invento_argentino.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

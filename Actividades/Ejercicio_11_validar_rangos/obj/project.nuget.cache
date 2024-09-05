@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "TbBRzjmRiHPBJHksWV4BGxzd75DXy2+DQyvo2lb0h5o74x5Yx3TN3InOHXm6gwM6aaek9RhKvd76+iTCDd5bew==",
+  "dgSpecHash": "E4UDr+jwS8MnITiCyDnIyLDctjsv3C+W0YuHq3dwWjol715DyjSlqLoIFVbJecRdgYahF+iCL4B+cw0ZpSn6OA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Ejercicio_11_validar_rangos\\Ejercicio_11_validar_rangos.csproj",
+  "projectFilePath": "C:\\Users\\Sistemas\\OneDrive\\Desktop\\Actividades\\Actividades\\Ejercicio_11_validar_rangos\\Ejercicio_11_validar_rangos.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
   ],
   "logs": []
 }

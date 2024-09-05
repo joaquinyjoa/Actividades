@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "r16fDFWEOkU0LJu/H0PmIPdhelssGnT72umV85MiXyw51pDUDVkUV9wba/zOFXDYbEUG3vBxdQbpFXjLjk1Ecw==",
+  "dgSpecHash": "isArSK/R6jRSV/LpRtn9gbmcmXO8DXmHS4IcR17OTi/9qUXfdb61GMEmD5ZM32WzEqLsdUJ4s6TkglWwtkx3IA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joaquin\\Desktop\\Actividades\\Actividades\\Ejercicio_15_Calcular_area\\Ejercicio_15_Calcular_area.csproj",
+  "projectFilePath": "C:\\Users\\Sistemas\\OneDrive\\Desktop\\Actividades\\Actividades\\Ejercicio_15_Calcular_area\\Ejercicio_15_Calcular_area.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
   ],
   "logs": []
 }

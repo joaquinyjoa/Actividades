@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SxrwVsx3H//9asXcoO9FQnw8Bv8u3NxUY199Qa55MORS1tj2RiQEKoJz6giHFXQ9CAoNQIzUCkfeS3fkYbl/Xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sistemas\\OneDrive\\Desktop\\Actividades\\Actividades\\Ejercicio_18_prestamo\\Ejercicio_18_prestamo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

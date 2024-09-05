@@ -25,17 +25,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_10_Dibujando_tria
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_11_validar_rangos", "Ejercicio_11_validar_rangos\Ejercicio_11_validar_rangos.csproj", "{73BC14F6-5774-475D-A317-A1370A1134BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_12_calculadora", "Ejercicio_12_calculadora\Ejercicio_12_calculadora.csproj", "{CBFF9E2C-D7E8-47B2-9F35-164D37A87C9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_12_calculadora", "Ejercicio_12_calculadora\Ejercicio_12_calculadora.csproj", "{CBFF9E2C-D7E8-47B2-9F35-164D37A87C9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_13_calcular_factorial", "Ejercicio_13_calculadora_factorial\Ejercicio_13_calcular_factorial.csproj", "{5D86FC53-7E8D-49E6-98AF-D403BBE7DEED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_13_calcular_factorial", "Ejercicio_13_calculadora_factorial\Ejercicio_13_calcular_factorial.csproj", "{5D86FC53-7E8D-49E6-98AF-D403BBE7DEED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_14_tabla_multiplicar", "Ejercicio_14_tabla_multiplicar\Ejercicio_14_tabla_multiplicar.csproj", "{3328D48D-C4BE-4720-AAB5-07A3D3281B05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_14_tabla_multiplicar", "Ejercicio_14_tabla_multiplicar\Ejercicio_14_tabla_multiplicar.csproj", "{3328D48D-C4BE-4720-AAB5-07A3D3281B05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_15_Calcular_area", "Ejercicio_15_Calcular_area\Ejercicio_15_Calcular_area.csproj", "{513146F0-43DB-4234-8EE4-C38ECFB44B07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_15_Calcular_area", "Ejercicio_15_Calcular_area\Ejercicio_15_Calcular_area.csproj", "{513146F0-43DB-4234-8EE4-C38ECFB44B07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_16_pitagoras", "Ejercicio_16_pitagoras\Ejercicio_16_pitagoras.csproj", "{D14F61C9-1A49-4BAF-BC8E-8B4FF3ABAA11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_16_pitagoras", "Ejercicio_16_pitagoras\Ejercicio_16_pitagoras.csproj", "{D14F61C9-1A49-4BAF-BC8E-8B4FF3ABAA11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_17_tiempo", "Ejercicio_17_tiempo\Ejercicio_17_tiempo.csproj", "{907501D3-4EE0-4EFE-9E01-E40F5CA440BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_17_tiempo", "Ejercicio_17_tiempo\Ejercicio_17_tiempo.csproj", "{907501D3-4EE0-4EFE-9E01-E40F5CA440BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_18_prestamo", "Ejercicio_18_prestamo\Ejercicio_18_prestamo.csproj", "{6D1650CB-B492-4E9D-B3FE-CABD5CD7A76A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_19_cuantas_primaveras", "Ejercicio_19_cuantas_primaveras\Ejercicio_19_cuantas_primaveras.csproj", "{7286E9BB-EA7A-4CD2-B767-A60401AB83F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_20_ejemplo_universal", "Ejercicio_20_ejemplo_universal\Ejercicio_20_ejemplo_universal.csproj", "{B0EC6E68-2EE7-4BC5-A6D0-F739CEE9D248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_21_invento_argentino", "Ejercicio_21_invento_argentino\Ejercicio_21_invento_argentino.csproj", "{3BB63245-72CB-44F9-8284-ED06235636CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_22_prueba_geometrica", "Ejercicio_21_prueba_geometrica\Ejercicio_22_prueba_geometrica.csproj", "{25E9CF14-600A-4B15-B96E-86542BA39818}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +121,26 @@ Global
 		{907501D3-4EE0-4EFE-9E01-E40F5CA440BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{907501D3-4EE0-4EFE-9E01-E40F5CA440BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{907501D3-4EE0-4EFE-9E01-E40F5CA440BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1650CB-B492-4E9D-B3FE-CABD5CD7A76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1650CB-B492-4E9D-B3FE-CABD5CD7A76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1650CB-B492-4E9D-B3FE-CABD5CD7A76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1650CB-B492-4E9D-B3FE-CABD5CD7A76A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7286E9BB-EA7A-4CD2-B767-A60401AB83F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7286E9BB-EA7A-4CD2-B767-A60401AB83F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7286E9BB-EA7A-4CD2-B767-A60401AB83F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7286E9BB-EA7A-4CD2-B767-A60401AB83F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0EC6E68-2EE7-4BC5-A6D0-F739CEE9D248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EC6E68-2EE7-4BC5-A6D0-F739CEE9D248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EC6E68-2EE7-4BC5-A6D0-F739CEE9D248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EC6E68-2EE7-4BC5-A6D0-F739CEE9D248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB63245-72CB-44F9-8284-ED06235636CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB63245-72CB-44F9-8284-ED06235636CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB63245-72CB-44F9-8284-ED06235636CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB63245-72CB-44F9-8284-ED06235636CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25E9CF14-600A-4B15-B96E-86542BA39818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E9CF14-600A-4B15-B96E-86542BA39818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E9CF14-600A-4B15-B96E-86542BA39818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E9CF14-600A-4B15-B96E-86542BA39818}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

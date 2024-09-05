@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3yPCU2KMYqZtG57WwqfHzaxX+QENIf/Cm3eJxqyAv74fCBZ3LQ2U2kT7242Pm/SQa9jCmBHHOooA+vTS6ncRCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sistemas\\OneDrive\\Desktop\\Actividades\\Actividades\\Ejercicio_21_prueba_geometrica\\Ejercicio_22_prueba_geometrica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sistemas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

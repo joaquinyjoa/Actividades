@@ -1,0 +1,15 @@
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_21_invento_argentino\bin\Debug\net6.0\Ejercicio_21_invento_argentino.exe
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_21_invento_argentino\bin\Debug\net6.0\Ejercicio_21_invento_argentino.deps.json
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_21_invento_argentino\bin\Debug\net6.0\Ejercicio_21_invento_argentino.runtimeconfig.json
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_21_invento_argentino\bin\Debug\net6.0\Ejercicio_21_invento_argentino.dll
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_21_invento_argentino\bin\Debug\net6.0\Ejercicio_21_invento_argentino.pdb
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_21_invento_argentino\obj\Debug\net6.0\Ejercicio_21_invento_argentino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_21_invento_argentino\obj\Debug\net6.0\Ejercicio_21_invento_argentino.AssemblyInfoInputs.cache
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_21_invento_argentino\obj\Debug\net6.0\Ejercicio_21_invento_argentino.AssemblyInfo.cs
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_21_invento_argentino\obj\Debug\net6.0\Ejercicio_21_invento_argentino.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_21_invento_argentino\obj\Debug\net6.0\Ejercicio_21_invento_argentino.sourcelink.json
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_21_invento_argentino\obj\Debug\net6.0\Ejercicio_21_invento_argentino.dll
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_21_invento_argentino\obj\Debug\net6.0\refint\Ejercicio_21_invento_argentino.dll
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_21_invento_argentino\obj\Debug\net6.0\Ejercicio_21_invento_argentino.pdb
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_21_invento_argentino\obj\Debug\net6.0\Ejercicio_21_invento_argentino.genruntimeconfig.cache
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_21_invento_argentino\obj\Debug\net6.0\ref\Ejercicio_21_invento_argentino.dll

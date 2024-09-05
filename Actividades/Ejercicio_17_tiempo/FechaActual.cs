@@ -8,11 +8,12 @@ namespace Ejercicio_17_tiempo
 {
     public class FechaActual
     {
-        public static string CalclarFechaActual(DateTime cumpleaños) 
+        public static string CalcularFechaActual(DateTime cumpleaños) 
         {
             int diasRestantes;
             DateTime fechaActual = DateTime.Now;
             TimeSpan diferencia;
+
             StringBuilder mensaje = new StringBuilder();
 
             diferencia = fechaActual - cumpleaños;

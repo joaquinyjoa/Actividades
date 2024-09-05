@@ -1,0 +1,15 @@
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_17_tiempo\bin\Debug\net6.0\Ejercicio_17_tiempo.exe
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_17_tiempo\bin\Debug\net6.0\Ejercicio_17_tiempo.deps.json
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_17_tiempo\bin\Debug\net6.0\Ejercicio_17_tiempo.runtimeconfig.json
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_17_tiempo\bin\Debug\net6.0\Ejercicio_17_tiempo.dll
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_17_tiempo\bin\Debug\net6.0\Ejercicio_17_tiempo.pdb
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_17_tiempo\obj\Debug\net6.0\Ejercicio_17_tiempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_17_tiempo\obj\Debug\net6.0\Ejercicio_17_tiempo.AssemblyInfoInputs.cache
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_17_tiempo\obj\Debug\net6.0\Ejercicio_17_tiempo.AssemblyInfo.cs
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_17_tiempo\obj\Debug\net6.0\Ejercicio_17_tiempo.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_17_tiempo\obj\Debug\net6.0\Ejercicio_17_tiempo.sourcelink.json
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_17_tiempo\obj\Debug\net6.0\Ejercicio_17_tiempo.dll
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_17_tiempo\obj\Debug\net6.0\refint\Ejercicio_17_tiempo.dll
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_17_tiempo\obj\Debug\net6.0\Ejercicio_17_tiempo.pdb
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_17_tiempo\obj\Debug\net6.0\Ejercicio_17_tiempo.genruntimeconfig.cache
+C:\Users\Sistemas\OneDrive\Desktop\Actividades\Actividades\Ejercicio_17_tiempo\obj\Debug\net6.0\ref\Ejercicio_17_tiempo.dll
